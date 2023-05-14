@@ -1,16 +1,17 @@
 # .NET MAUI Wowie!
 
-Collection of open source .NET MAUI projects and applications and some Xamarin ones as well.
+Collection of open source .NET MAUI projects and applications and some Xamarin ones as well. Remember, just because something says "Xamarin" it can usually be easily upgraded to support .NET MAUI.
 
 Create a PR and contribute your app/findings today!
 
 ## Controls
 
 | Project | Framework | Description |
-|-|-|
+|-|-|-|
 | [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) | Xamarin | Fast and Furious Image Loading
+| [MediaManager](https://github.com/Baseflow/XamarinMediaManager) | | Media plugin for Xamarin and Windows
 | [Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) | Xamarin | Add shimmer while your app is loading
-| [Multilingual Plugin](https://github.com/CrossGeeks/MultilingualPlugin) | | Cross platform plugin for handling language localization
+| [Multilingual Plugin](https://github.com/CrossGeeks/MultilingualPlugin) | Xamarin | Cross platform plugin for handling language localization
 | [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView) | Xamarin | Extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more!
 
 ## Database
@@ -20,6 +21,15 @@ Create a PR and contribute your app/findings today!
 | [LiteDB](https://github.com/mbdavid/LiteDB) | Small, fast and lightweight .NET NoSQL embedded database
 
 ## Full Applications
+
+### Chat
+
+| Project | Framework | Description
+|-|-|-|
+| [CrossChat](https://github.com/EgorBo/CrossChat-Xamarin.Forms) | Xamarin | Chat app (client and web server)
+| [JKChat](https://github.com/entdark/JKChat) | | Jedi Knight Chat
+| [Mobile Chat](https://github.com/jihadkhawaja/MobileChat) | MAUI | MAUI Client with ASP.NET SignalR Server (Razor) - [Online Sample](https://chat.jihadkhawaja.com/)
+| [Xamarin Forms Chat Client](https://github.com/IncredibleWeb/Xamarin-Forms-Chat-Client) | Xamarin | SignalR chat application
 
 ### Clones
 
@@ -38,4 +48,12 @@ Create a PR and contribute your app/findings today!
 ### Health
 
 | Project | Framework | Description |
+|-|-|-|
+| [Pomodoro](https://github.com/josearias210/Pomodoro) |
 | [XamarinForms-Covid19](https://github.com/Altevir/xamarinforms-covid19) | Xamarin.Forms | A vibrant UI example using custom controls. the app is intended to monitor cases of Covid-19 with data from affected countries.
+
+### Media
+
+| Project | Framework | Description
+|-|-|-|
+| [Chameleon](https://github.com/Baseflow/Chameleon) | Xamarin | Flexible media player
