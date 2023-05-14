@@ -9,6 +9,7 @@ Create a PR and contribute your app/findings today!
 | Project | Framework | Description |
 |-|-|-|
 | [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) | Xamarin | Fast and Furious Image Loading
+| [LittieXamarin](https://github.com/Baseflow/LottieXamarin) | Xamarin | Render After Effects animations natively on Android, iOS, MacOS and TvOS for Xamarin
 | [MediaManager](https://github.com/Baseflow/XamarinMediaManager) | | Media plugin for Xamarin and Windows
 | [Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) | Xamarin | Add shimmer while your app is loading
 | [Multilingual Plugin](https://github.com/CrossGeeks/MultilingualPlugin) | Xamarin | Cross platform plugin for handling language localization
@@ -49,7 +50,8 @@ Create a PR and contribute your app/findings today!
 
 | Project | Framework | Description |
 |-|-|-|
-| [Pomodoro](https://github.com/josearias210/Pomodoro) |
+| [Resistance Mobile](https://github.com/epam/covid-resistance-mobile) | Xamarin | Simple bluetooth proximity alerts and web services.<br/>Uses: _LiteDB, Prism, Nitro.AsyncEx, ReactiveUI, FFImageLoading, JSON, REST, AppCenter Analytics, Logging, and Azure Notifications_
+| [Pomodoro](https://github.com/josearias210/Pomodoro) | Xamarin | Pomodoro timer and usage history.<br/>Uses: _Prism, AppCenter Analytics and Crashes_
 | [XamarinForms-Covid19](https://github.com/Altevir/xamarinforms-covid19) | Xamarin.Forms | A vibrant UI example using custom controls. the app is intended to monitor cases of Covid-19 with data from affected countries.
 
 ### Media
