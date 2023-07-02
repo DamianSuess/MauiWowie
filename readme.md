@@ -14,6 +14,7 @@ Create a PR and contribute your app/findings today!
 | [Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) | Xamarin | Add shimmer while your app is loading
 | [Multilingual Plugin](https://github.com/CrossGeeks/MultilingualPlugin) | Xamarin | Cross platform plugin for handling language localization
 | [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView) | Xamarin | Extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more!
+| [FunctionZero](https://github.com/Keflon/FunctionZero.Maui.Controls) | MAUI | High performance fully virtualising `ListView` that doesn't leak memory or enforce arbitrary item spacing
 
 ## Database
 
