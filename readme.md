@@ -8,13 +8,14 @@ Create a PR and contribute your app/findings today!
 
 | Project | Framework | Description |
 |-|-|-|
+| [CardsView](https://github.com/AndreiMisiukevich/CardView) | MAUI | Card View and super-charged carousels
 | [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) | Xamarin | Fast and Furious Image Loading
+| [FunctionZero](https://github.com/Keflon/FunctionZero.Maui.Controls) | MAUI | High performance fully virtualising `ListView` that doesn't leak memory or enforce arbitrary item spacing
 | [LittieXamarin](https://github.com/Baseflow/LottieXamarin) | Xamarin | Render After Effects animations natively on Android, iOS, MacOS and TvOS for Xamarin
 | [MediaManager](https://github.com/Baseflow/XamarinMediaManager) | | Media plugin for Xamarin and Windows
-| [Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) | Xamarin | Add shimmer while your app is loading
 | [Multilingual Plugin](https://github.com/CrossGeeks/MultilingualPlugin) | Xamarin | Cross platform plugin for handling language localization
 | [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView) | Xamarin | Extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more!
-| [FunctionZero](https://github.com/Keflon/FunctionZero.Maui.Controls) | MAUI | High performance fully virtualising `ListView` that doesn't leak memory or enforce arbitrary item spacing
+| [Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) | Xamarin | Add shimmer while your app is loading
 | [Lib VLC Sharp](https://github.com/videolan/libvlcsharp) | MAUI | VLC Player for .NET MAUI!!
 
 ## Database
