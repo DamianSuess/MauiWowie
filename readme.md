@@ -15,6 +15,7 @@ Create a PR and contribute your app/findings today!
 | [Multilingual Plugin](https://github.com/CrossGeeks/MultilingualPlugin) | Xamarin | Cross platform plugin for handling language localization
 | [Pancake View](https://github.com/sthewissen/Xamarin.Forms.PancakeView) | Xamarin | Extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more!
 | [FunctionZero](https://github.com/Keflon/FunctionZero.Maui.Controls) | MAUI | High performance fully virtualising `ListView` that doesn't leak memory or enforce arbitrary item spacing
+| [Lib VLC Sharp](https://github.com/videolan/libvlcsharp) | MAUI | VLC Player for .NET MAUI!!
 
 ## Database
 
@@ -60,3 +61,9 @@ Create a PR and contribute your app/findings today!
 | Project | Framework | Description
 |-|-|-|
 | [Chameleon](https://github.com/Baseflow/Chameleon) | Xamarin | Flexible media player
+
+## More Sample Collections
+
+* https://www.snppts.dev
+* https://github.com/jsuarezruiz/dotnet-maui-showcase
+* https://github.com/LucioMSP/Xamarin.Forms.Examples
